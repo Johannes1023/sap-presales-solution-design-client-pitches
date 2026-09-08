@@ -102,7 +102,7 @@ The goal was to demonstrate that we understood the client's operation before pro
 
 After discovery, I worked with the consulting team to translate the requirements into a concrete solution concept.
 
-For warehouse management opportunities, typical topics included:
+For SAP EWM opportunities, the focus included:
 
 - Goods receipt and putaway
 - Inventory transparency
